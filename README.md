@@ -43,3 +43,12 @@ I can reach stage 2.
 ### About the game 
 
 https://tcrf.net/Aether_Cruiser
+
+### My personal progress
+
+I can reach stage 2.
+
+
+## More info
+
+This documentation project is licensed CC0.
