@@ -48,6 +48,15 @@ https://tcrf.net/Aether_Cruiser
 
 I can reach stage 2.
 
+##   5 - Aim Cruise
+
+### About the game
+
+https://tcrf.net/Aim_Cruise
+
+### My personal progress
+
+Aim Cruise game's over if you manage to play for 99 seconds without losing, which I do, reaching level 4.
 
 ## More info
 
