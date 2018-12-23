@@ -58,6 +58,16 @@ https://tcrf.net/Aim_Cruise
 
 Aim Cruise game's over if you manage to play for 99 seconds without losing, which I do, reaching level 4.
 
+##   6 - Air Alert
+
+### About the game
+
+This seems to be a variant to another "Air Alert": https://www.youtube.com/watch?v=zYnUBDAu8V4 . This one has only the choice of "1 Plane" on the main menu, has black background there and yellow letters, instead of the purple and orange seen on that video. The game has audio, but the title screen has not.
+
+### My personal progress
+
+At least this version of Air Alert comes with infinite lives.
+
 ## More info
 
 This documentation project is licensed CC0.
