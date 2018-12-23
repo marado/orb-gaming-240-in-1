@@ -68,6 +68,17 @@ This seems to be a variant to another "Air Alert": https://www.youtube.com/watch
 
 At least this version of Air Alert comes with infinite lives.
 
+##   7 - Star
+
+### About the game
+
+I find no information about this game online. This is *not* the hack of the Snafu game, of the same name. For better reference, here's a picture of the game's title screen:
+![](star.png)
+
+### Personal progress
+
+I've played this game until level 3, during which I decided to quit.
+
 ## More info
 
 This documentation project is licensed CC0.
