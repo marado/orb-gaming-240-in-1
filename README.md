@@ -79,6 +79,46 @@ I find no information about this game online. This is *not* the hack of the Snaf
 
 I've played this game until level 3, during which I decided to quit.
 
+##   8 - Levin Action
+
+### About the game
+
+This is a modded version of Defender.
+
+### Personal progress
+
+I reach wave 2.
+
+##   9 - Animal Blockes
+
+### About the game
+
+This is a Mahjong game, where the blocks are images of animals. A reference to its existence can be found here: https://tcrf.net/Angry_Birds_(NES,_2012)
+
+### Personal progress
+
+Stage 4.
+
+##  10 - Animal Contest
+
+### About the game
+
+This is a game with the mechanics of the "War" cards game. More info here: https://tcrf.net/Animal_Contest
+
+### Personal progress
+
+What can be said of a game like this? You play, if you're lucky you win, if you're not you loose.
+
+##  11 - Balloon Shoot
+
+### About the game
+
+https://www.youtube.com/watch?v=ieuMVuwarQM&feature=youtu.be
+
+### Personal progress
+
+You have 60 seconds to do your best, and that's it...
+
 ## More info
 
 This documentation project is licensed CC0.
