@@ -2,7 +2,7 @@
 
 I got an "Orb Gaming Mini Arcade Machine", with 240 games.
 
-It is the one you can find in https://thumbsupuk.com/Products/Mini_Arcade_Machine . There two (at least) more recent versions, which you can distinguish because the games menu has categories on what I'm calling versions 2 and 3. The 3rd version doesn't say 'orb Gaming' on the front, either. I do not know if the actual games on those versions are the same. 
+It is the one you can find in https://thumbsupuk.com/Products/Mini_Arcade_Machine . There two (at least) more recent versions, which you can distinguish because the games menu has categories on what I'm calling versions 2 and 3. The 3rd version doesn't say 'orb Gaming' on the front, either. I do not know if the actual games on those versions are the same.
 
 The sort of guy that would find such a machine interesting (yeah, me) is also the sort of guy who would enjoy having more info about the games that are available in here, including a list of games, information about them, links and so on. Unfortunately, a few of these games don't seem to be documented anywhere. So... well, I decided to create a small repository -- for now just one markdown file, to list the games, add info about them, and so on. If you know more about some of these games (even if you don't have them on the same mini arcade machine!), feel free to open issues or submit pull requests.
 
@@ -40,7 +40,7 @@ I can reach stage 2.
 
 ##   4 - Aether Cruiser
 
-### About the game 
+### About the game
 
 https://tcrf.net/Aether_Cruiser
 
@@ -118,6 +118,16 @@ https://www.youtube.com/watch?v=ieuMVuwarQM&feature=youtu.be
 ### Personal progress
 
 You have 60 seconds to do your best, and that's it...
+
+## 12 - Bicycle
+
+### About the game
+
+There is more than one variant of this game, because when I initially searched about it, I found a video (unfortunately no longer available) of the same game, but with more options in the start menu. On this variant, the only starting choice is level 1.
+
+### Personal progress
+
+I reach level 2.
 
 ## More info
 
