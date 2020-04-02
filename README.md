@@ -143,7 +143,7 @@ I reached lvel 5.
 
 ### About the game
 
-A "road fighter" hack: same game, different graphics.
+A "road fighter" hack: same game, different graphics. (See also number 71 on this list).
 
 ### Personal progress
 
@@ -367,6 +367,15 @@ racing game against PC, three levels and then you win
 
 Galaga clone, reach level 6
 
+## 71 - Panzer Fly Car
+
+### About the game
+
+Panzer Fly Car is a "Road Fighter hack". More info: https://piratedgamemuseum.fandom.com/wiki/Road_Fighter . A video can be seen here: https://www.youtube.com/watch?v=CCxpBNN7xX0 . In this version, the menu has only the "Level 1" option. See also number 14 on this list, which is another hack of the same game.
+
+### Personal Progress
+
+Tracked on entry #14 of this list.
 
 ## More info
 
