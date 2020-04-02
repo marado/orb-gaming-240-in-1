@@ -149,6 +149,17 @@ A "road fighter" hack: same game, different graphics.
 
 6400 (level 1).
 
+## 15 - Brother Ball
+
+### About the game
+
+Some info [here](https://tcrf.net/Brother_Ball). The levels get bigger, but the difficulty does not increase.
+
+### Personal progress
+
+I reached stage 7 before I quited. Might be interesting to try to play it through, just to figure out how many levels are there... and as a resistence to boredom test.
+
+
 ## More info
 
 This documentation project is licensed CC0.
