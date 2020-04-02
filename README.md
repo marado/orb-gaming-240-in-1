@@ -383,6 +383,16 @@ Tracked on entry #14 of this list.
 
 Same as #23, see that entry for more info.
 
+## 73 - Pizza Boy
+
+### About the game
+
+https://www.youtube.com/watch?v=j349oNGMo5o
+
+### Personal Progress
+
+Lost on stage 5.
+
 
 ## More info
 
