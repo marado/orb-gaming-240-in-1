@@ -159,6 +159,16 @@ Some info [here](https://tcrf.net/Brother_Ball). The levels get bigger, but the 
 
 I reached stage 7 before I quited. Might be interesting to try to play it through, just to figure out how many levels are there... and as a resistence to boredom test.
 
+## 16 - Bug
+
+### About the game
+
+Fumigate a cat!
+
+### Personal progress
+
+Level 4.
+
 
 ## More info
 
