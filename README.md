@@ -237,6 +237,8 @@ https://youtu.be/PqPSgrModxM
 * http://bootleggames.wikia.com/wiki/Pindable_Crystal_Ball
 * single player version
 
+The entry #23 shows this game as "Crystal Ball." It will later appear, exactly the same game, on entry #72, under the name "Pindable".
+
 ### Personal progress
 
 I get to level 5.
@@ -376,6 +378,11 @@ Panzer Fly Car is a "Road Fighter hack". More info: https://piratedgamemuseum.fa
 ### Personal Progress
 
 Tracked on entry #14 of this list.
+
+## 72 - Nature Clan: Pindable Crystal Ball
+
+Same as #23, see that entry for more info.
+
 
 ## More info
 
