@@ -129,10 +129,6 @@ There is more than one variant of this game, because when I initially searched a
 
 I reach level 2.
 
-## More info
-
-This documentation project is licensed CC0.
-
 ## 13 - Blob Buster
 
 ### About the game
@@ -142,3 +138,17 @@ Blog Buster is [an hack](https://www.romhacking.net/hacks/1410/) of [Dig Dug II]
 ### Personal progress
 
 I reached lvel 5.
+
+## 14 - Boat Race
+
+### About the game
+
+A "road fighter" hack: same game, different graphics.
+
+### Personal progress
+
+6400 (level 1).
+
+## More info
+
+This documentation project is licensed CC0.
