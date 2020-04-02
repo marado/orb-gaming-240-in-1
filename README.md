@@ -132,3 +132,13 @@ I reach level 2.
 ## More info
 
 This documentation project is licensed CC0.
+
+## 13 - Blob Buster
+
+### About the game
+
+Blog Buster is [an hack](https://www.romhacking.net/hacks/1410/) of [Dig Dug II](https://en.wikipedia.org/wiki/Dig_Dug_II). But in this arcade, even Blog Buster was hacked: the main screen only shows the 1 Player option, but does not hide the 2UP text on the top right corner. Nothing under the 1 Player option shows (including the credits).
+
+### Personal progress
+
+I reached lvel 5.
