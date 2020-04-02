@@ -169,6 +169,204 @@ Fumigate a cat!
 
 Level 4.
 
+## 17 - Bug Catcher
+
+### About the game
+
+This is a game about a cat that eats.
+
+### Personal progress
+
+I reached level 9, and quit'ed. It's easy not to loose in this game.
+
+## 18 - Busy Bar
+
+### About the game
+
+You are a mouse working on a bar, serving drinks on tables. The bar is busy, and it gets busier as you progress.
+
+### Personal progress
+
+Level 5.
+
+## 19 - Candy Workshop
+
+### About the game
+
+Some info [here](https://tcrf.net/Candy_Workshop). If you play long enough without loosing it games over.
+
+### Personal progress
+
+I reached the "end" (played long enough to loose by not loosing).
+
+## 20 - Checkers
+
+### About the game
+
+This is actually the [checkers](https://en.wikipedia.org/wiki/Draughts) game called [Checker](https://tcrf.net/Checker), but with title name changed to 'Checkers'.
+
+### Personal progress
+
+I've won a few times. There are no difficulty levels, and this isn't an hard one, which makes the game boring after a while.
+
+## 21 - Contest
+
+### About the game
+
+Same as Contest 2004, AFAICS, only change being that "2004" is not written on the title screen: https://tcrf.net/Contest_2004 .
+
+### Personal progress
+
+Three levels loop, I manage do to all without loosing lives.
+
+## 22 - Cookies Labyrinth
+
+### About the game
+
+https://youtu.be/PqPSgrModxM
+
+### Personal progress
+
+5 levels, I do them all.
+
+## 23 - Nature Clan: Pindable Crystal Ball
+
+### About the game
+
+* https://tcrf.net/Nature_Clan:_Pindable_Crystal_Ball
+* http://bootleggames.wikia.com/wiki/Pindable_Crystal_Ball
+* single player version
+
+### Personal progress
+
+I get to level 5.
+
+## 24 - Crystal Blast
+
+### About the game
+
+https://youtu.be/Z2ZsD1EdA5o
+
+### Personal progress
+
+I get up to level 10.
+
+## 25 - danger bridge
+
+https://tcrf.net/Danger_Bridge
+
+I reach level 10.
+
+## 26 - deformable
+
+racing game against PC, three levels and then you win
+
+## 27 - dejectile
+
+Bomberman 2002 clone, I get to stage 4
+
+## 28 - egg contest
+
+lost on level 4
+
+## 29 - escapeway
+
+game over after 99 seconds
+
+## 30 - Fairy's Treasure
+
+905 points (level 1)
+
+## 31 - fated pirate
+
+level 2
+
+## 32 - final blood
+
+level 3
+
+## 33 - fish story
+
+level 2
+
+## 34 - fling ball
+
+## 35 - Forest Adventure
+
+## 36 - Frantic Fishing
+
+## 37 - Fruit Gift
+
+## 38 - Fruit Pig
+
+## 39 - Ghost Castle
+
+## 40 - Golden Bird
+
+## 41 - Goodhand
+
+## 42 - Gradirs
+
+## 43 - Greeds
+
+## 44 - Hammer And Nail
+
+## 45 - Happy Match
+
+## 46 - Hassle
+
+## 47 - Highcard
+
+## 48 - Hurry Burry
+
+## 49 - Ice Ocean
+
+## 50 - IQ Champeon
+
+## 51 - Island
+
+## 52 - Jumping Kid
+
+## 53 - Jump Jump
+
+## 54 - Lattice Winner
+
+## 55 - Law Purge
+
+## 56 - Lightning
+
+racing game against PC, three levels and then you win
+
+## 57 - Little Witch
+
+## 58 - Magic Egg
+
+## 59 - Masked Man
+
+## 60 - Masked Man II
+
+## 61 - Masked Man III
+
+## 62 - Meccano
+
+## 63 - Mirror Devil Word
+
+## 64 - Mouse Hero
+
+## 65 - Mouse Snare
+
+## 66 - Mowing
+
+## 67 - Music Moment
+
+## 68 - Nut Cracky
+
+## 69 - Octupus
+
+## 70 - Battle
+
+Galaga clone, reach level 6
+
 
 ## More info
 
