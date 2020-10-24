@@ -291,7 +291,19 @@ level 3
 
 level 2
 
-## 34 - fling ball
+## 34 - Fling Ball
+
+### About the game
+
+On this 1P only version, the box to choose from 1P or 2P exists, but there is nothing seen in there.
+
+You play 5 rounds against COM, the player with more points in the end wins.
+
+A video of the 2P version of the game can be seen here: https://www.youtube.com/watch?v=P3gis0giPhc .
+
+### Personal Progress
+
+I manage to win. 
 
 ## 35 - Forest Adventure
 
