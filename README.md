@@ -307,6 +307,10 @@ I manage to win.
 
 ## 35 - Forest Adventure
 
+### About the game
+
+Platform game (jump and don't fall). A video of it being played can be seen here: https://www.youtube.com/watch?v=XLGOwJm37UM . It has ten levels.
+
 ## 36 - Frantic Fishing
 
 ## 37 - Fruit Gift
