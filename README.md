@@ -137,7 +137,7 @@ Blog Buster is [an hack](https://www.romhacking.net/hacks/1410/) of [Dig Dug II]
 
 ### Personal progress
 
-I reached lvel 5.
+I reached level 5.
 
 ## 14 - Boat Race
 
@@ -316,6 +316,10 @@ Platform game (jump and don't fall). A video of it being played can be seen here
 I manage to win (ie, complete the 10 levels). 
 
 ## 36 - Frantic Fishing
+
+Never ending game, since the "time" starts on 0.
+
+https://www.youtube.com/watch?v=psSquw1fXek
 
 ## 37 - Fruit Gift
 
