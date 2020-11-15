@@ -323,7 +323,13 @@ https://www.youtube.com/watch?v=psSquw1fXek
 
 ## 37 - Fruit Gift
 
+http://wiki.nesbbs.com/index.php?title=Fruit_Gift
+
+This game provides unlimited lives, I've reached level 4 before I quitted.
+
 ## 38 - Fruit Pig
+
+This game provides unlimited lives, I've reached level 10 before I quitted.
 
 ## 39 - Ghost Castle
 
