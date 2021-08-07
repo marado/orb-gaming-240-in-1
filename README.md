@@ -423,6 +423,15 @@ https://www.youtube.com/watch?v=j349oNGMo5o
 
 Lost on stage 5.
 
+## 74 - Police Dog
+
+### About the game
+
+While the menu calls it "Police Dog" its full name according to the title screen is "Police Dog Lasy". The game has 10 stages, each with increasing difficulty, while, after a robber has planted his loot during the night on a field, the player controlling a police dog will need to spot the places where the loot was planted. A video of que game being played from start to finish can be seen at https://www.youtube.com/watch?v=p5_D5kJYZ1g . According to https://tcrf.net/Police_Dog_Lasy , there are two versions of this game, with and without sound. The version in this machine is the one with sound.
+
+### Personal Progress
+
+Lost in Stage 4, with 2400 points.
 
 ## More info
 
