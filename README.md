@@ -2,7 +2,7 @@
 
 I got an "Orb Gaming Mini Arcade Machine", with 240 games.
 
-It is the one you can find in https://www.thumbsup.com/collections/valentines-day/products/mini-arcade-machine . There two (at least) more recent versions, which you can distinguish because the games menu has categories on what I'm calling versions 2 and 3. The 3rd version doesn't say 'orb Gaming' on the front, either. I do not know if the actual games on those versions are the same.
+It is the one you can find in https://www.thumbsup.com/collections/valentines-day/products/mini-arcade-machine . There two (at least) more recent versions, which you can distinguish because the games menu has categories on what I'm calling versions 2 and 3. The 3rd version doesn't say 'orb Gaming' on the front, either. I do not know if the actual games on those versions are the same. The version this documents is labeled as OR-240IN1ARC, batch 13759.
 
 The sort of guy that would find such a machine interesting (yeah, me) is also the sort of guy who would enjoy having more info about the games that are available in here, including a list of games, information about them, links and so on. Unfortunately, a few of these games don't seem to be documented anywhere. So... well, I decided to create a small repository -- for now just one markdown file, to list the games, add info about them, and so on. If you know more about some of these games (even if you don't have them on the same mini arcade machine!), feel free to open issues or submit pull requests.
 
@@ -432,6 +432,18 @@ While the menu calls it "Police Dog" its full name according to the title screen
 ### Personal Progress
 
 Lost in Stage 4, with 2400 points.
+
+## 75 - Police vs Thief
+
+### About the Game
+
+The title screen actually calls this "Police vs Thief - Violent Chasing", with "Violent Chasing" being the biggest letters. You can see an image on the title screen (and more info about the game) [on TCRF](https://tcrf.net/Police_vs_Thief:_Violent_Chasing), even if the difference between that image and the version on the arcade is there there is no 2 players option. There is also an [YouTube video](https://www.youtube.com/watch?v=U_Ik5PZhBfM) of someone playing the game until "the end": the game doesn't really stop, it just repeats the stages on and on, but the counter stops at 999.000.
+
+In this game, you drive a police car, and you need to "catch out" the thief's car. On the first level you need to do it four times, on the next one you need to do it five times, and so on. Each time you catch out a car you make 1000 points.
+
+### Personal Progress
+
+I only managed to make 3000 points, ie, catch out the thief three times, on level 1.
 
 ## More info
 
