@@ -22,7 +22,7 @@ This edition is supposed to have 3 levels.
 
 ### About the game
 
-This is not the space shooter arcade Vanguard, but the tank shooter. A video of it in action can be seen here: https://www.youtube.com/watch?v=eR--6_kXMFc
+This is not the space shooter arcade Vanguard, but the tank shooter. A video of it in action can be [seen here](https://www.youtube.com/watch?v=Jf_IfYwh1eA).
 
 ### My personal progress
 
