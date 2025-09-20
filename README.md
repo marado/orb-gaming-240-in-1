@@ -449,4 +449,4 @@ I only managed to make 3000 points, ie, catch out the thief three times, on leve
 
 ## More info
 
-This documentation project is licensed CC0.
+This documentation project is licensed [CC0](./LICENSE).
