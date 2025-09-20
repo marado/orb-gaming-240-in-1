@@ -6,6 +6,8 @@ It is the one you can find in https://www.thumbsup.com/collections/valentines-da
 
 The sort of guy that would find such a machine interesting (yeah, me) is also the sort of guy who would enjoy having more info about the games that are available in here, including a list of games, information about them, links and so on. Unfortunately, a few of these games don't seem to be documented anywhere. So... well, I decided to create a small repository -- for now just one markdown file, to list the games, add info about them, and so on. If you know more about some of these games (even if you don't have them on the same mini arcade machine!), feel free to open issues or submit pull requests.
 
+There is more info about this machine [on Wikidata](https://www.wikidata.org/wiki/Q115527878) and [in the Bootleg Games Wiki](https://bootleggames.fandom.com/wiki/Retro_Mini_Arcade_Machine).
+
 ##   1 - F22
 
 ### About the game
